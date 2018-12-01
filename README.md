@@ -1,4 +1,4 @@
-Haskell
+# Haskell
 
 Haskell is a language that is:
 
@@ -35,6 +35,7 @@ Functions are extremely easy to write in Haskell. For example let's consider the
 hypotenuse a b = sqrt (a^2 + b^2)
 ```
 Store this in test.hs
+
 NOTE : The parenthesis don't denote sqrt is a function. Added just for precedence.
 
 To run this open the ghci in your terminal in the path of the file. Then type
@@ -53,7 +54,7 @@ is compiled.
 
 ```
 let x = 3.0
-let y - 4.0
+let y = 4.0
 
 hypotenuse x y
 ```
